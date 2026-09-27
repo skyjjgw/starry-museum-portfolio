@@ -1,0 +1,25 @@
+{
+  "template": "Starry Museum",
+  "targets": [
+    {
+      "repository": "KOSXAI/Personal-website-ai",
+      "format": "reference",
+      "deliverables": ["Bilingual README entry", "Template reference document", "Homepage screenshot", "Showcase card", "Live demo and source links"],
+      "notes": "A reference gallery for a website-building service; do not copy the entire app into templates/. No standalone CONTRIBUTING file was present when inspected."
+    },
+    {
+      "repository": "OSSPhilippines/freefolio",
+      "format": "static-template",
+      "directory": "starry-museum",
+      "title": "Starry Museum a Freefolio template by OSSPH",
+      "deliverables": ["Static template directory", "Screenshot", "README listing", "Showcase card"],
+      "notes": "Keep host package files unchanged; include title and description; static data only; preserve licenses."
+    },
+    {
+      "repository": "guilyx/awesome-github-pages-portfolios",
+      "format": "directory-entry",
+      "deliverables": ["One README table row"],
+      "notes": "Requires a working GitHub Pages demo; one PR per suggestion; capitalized name."
+    }
+  ]
+}
