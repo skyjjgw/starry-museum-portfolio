@@ -1,5 +1,9 @@
 # Starry Museum
 
+[Live demo](https://skyjjgw.github.io/starry-museum-portfolio/) · [Source](https://github.com/skyjjgw/starry-museum-portfolio)
+
+![Interactive museum preview](screenshots/museum.png)
+
 A personal website as a small, walkable exhibition: a flowing *Starry Night*, floating oak frames, and live interactive content inside each painting.
 
 This repository contains **only the museum interface**. The four exhibits use fictional projects and an anonymous sample profile. It does not include a second portfolio application, a backend, analytics, credentials or deployment secrets.
@@ -36,7 +40,7 @@ The museum shell is in Simplified Chinese; sample exhibit content is English. Th
 ## Interaction and fallbacks
 
 - Scroll, use the numbered navigation or click outside the frame to continue.
-- Automatic browsing can be switched off; interaction returns control to the visitor.
+- Automatic browsing is off by default and can be switched on or off; interaction returns control to the visitor.
 - Project covers and the notebook work directly inside the frame.
 - Expand a frame for comfortable reading; Escape exits it.
 - Pause freezes ambient animation. Reduced-motion preference disables autoplay and ambient movement.
